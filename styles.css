@@ -1,7 +1,8 @@
 body{
-    background-color:blue;
-    color: green;
+    background-image: url(cat.jpeg);
+    color: white;
     text-align: center
+    
     ;
     font-size: xx-large;
 }
